@@ -6,7 +6,7 @@ This is a Streamlit-based web application for signal and circuit analysis and pr
 
 [Access the live app here](https://af2da3cf-14c1-44e2-817f-ad2aae1951cc-00-110wjnx9cjraw.pike.replit.dev/)
 
-> **Replace the above link with your actual Streamlit Cloud deployment URL after deploying.**
+
 
 ## Features
 
